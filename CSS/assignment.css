@@ -1,0 +1,156 @@
+@media screen and (max-width: 600px) {
+	.recommend {
+		visibility: hidden;
+		clear: both;
+		float: left;
+		/*margin: 10px auto 5px 20px;*/
+		display: none;
+	}
+}
+.navbar-brand .brand{
+	padding-left: 10px;
+}
+.bread-a{
+	color: #ADBABD !important;
+}
+.text{
+	font-family: 'Grandstander', cursive;
+	letter-spacing: 0px;
+	color: #333333;
+}
+.text-14{
+	font-size: 14px;
+}
+.nav-item{
+	padding-left: 40px;
+}
+.btn-1{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 1px 1px 0px #00000029;
+	border: 1px solid #333333;
+	border-radius: 25px;
+	width: auto;
+}
+.breadcrumb-dot .breadcrumb-item+.breadcrumb-item::before {
+	content: "<i class="fas fa-angle-double-right"></i>";
+	color: #408080;
+}
+.sp-right{
+	float: right;
+}
+.jumbotron{
+	padding-top: 0px;
+	background-color:#EBECF0 !important; 
+}
+.under{
+	text-decoration: underline;
+	color: #FF3A58;
+	font-weight: bold;
+}
+.recommend{
+	float: right;
+	background: #FDFFD3 0% 0% no-repeat padding-box;
+	box-shadow: 1px 1px 0px #00000029;
+	border: 1px solid #333333;
+	border-radius: 5px;
+	display: inline-block;
+	width: auto;
+	height: 50px;
+	padding: 5px;
+	padding-left: 10px;
+}
+.btn-time{
+	background: #FFFFFF 0% 0% no-repeat padding-box !important;
+	border: 1px solid #707070 !important;
+	border-radius: 20px !important;
+	color: black;
+}
+.btn-price{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 2px 2px 0px #0000001A;
+	border-radius: 5px;
+	color: black;
+}
+.btn-goal{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 1px 1px 0px #0000001A !important;
+	border: 1px solid #CBD8DB !important;
+	border-radius: 30px !important;
+	color: black;
+}
+.cut{
+	text-decoration: line-through;
+}
+.btn-book{
+	color: white;
+	background: #FF3A58 0% 0% no-repeat padding-box;
+	box-shadow: 2px 2px 0px #0000001A!important;
+	border: 1px solid #FF3A58!important;
+	border-radius: 5px!important;
+	font-weight: bold!important;
+}
+.btn-share{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 2px 2px 0px #0000001A;
+	border: 1px solid #FF3A58 !important;
+	border-radius: 5px;
+	color: #FF3A58;
+	font-weight: bold!important;
+}
+.top-right {
+	color: white;
+	position: absolute;
+	top: 8px;
+	right: 25px;
+}
+.bottom-left {
+	position: absolute;
+	bottom: 10px;
+	left: 20px;
+}
+.btn-watch{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 1px 1px 0px #00000029;
+	border-radius: 5px;
+	color: black;
+}
+.card{
+	width: 350px !important;
+}
+.ecllipse{
+	background: #AF70FC 0% 0% no-repeat padding-box !important;
+	box-shadow: 0px 3px 0px #0000001A !important;
+	border-radius: 150% !important;   
+	opacity: 1;
+}
+.pd{
+	padding-left: 50px;
+}
+
+footer{
+	background-color: #635D5D;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+@font-face{font-family:"fontfutura";src:url("https://fonts.googleapis.com/css?family=Open+Sans") format("ttf");font-weight:normal;font-style:normal;}
+a.btn-google{color:#fff}
+.btn{padding:10px 16px;margin:5px;font-size:18px;line-height:1.3333333;border-radius:6px;text-align:center;white-space:nowrap;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:1px solid transparent;font-weight:500;text-decoration:none;display:inline-block}
+.btn:active:focus,.btn:focus{outline:0}
+.btn:focus,.btn:hover{color:#333;text-decoration:none;outline:0}
+.btn:active{outline:0;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}
+.btn-google{color:#fff;background-color:#111;border-color:#000;padding:15px 16px 5px 40px;position:relative;font-family:fontfutura;font-weight:600}
+.btn-google:focus{color:#fff;background-color:#555;border-color:#000}
+.btn-google:active,.btn-google:hover{color:#fff;background-color:#555;border-color:#000;}
+.btn-google:before{content:"";background-image:url(https://4.bp.blogspot.com/-52U3eP2JDM4/WSkIT1vbUxI/AAAAAAAArQA/iF1BeARv2To-2FGQU7V6UbNPivuv_lccACLcB/s30/nexus2cee_ic_launcher_play_store_new-1.png);background-size:cover;background-repeat:no-repeat;width:30px;height:30px;position:absolute;left:6px;top:50%;margin-top:-15px}
+.btn-google:after{content:"GET IT ON";position:absolute;top:5px;left:40px;font-size:10px;font-weight:400;}
+
+a.btn-store{color:#fff}
+.btn-store{color:#fff;background-color:#111;border-color:#000;padding:15px 16px 5px 40px;position:relative;font-family:fontfutura;font-weight:600}
+.btn-store:focus{color:#fff;background-color:#555;border-color:#000}
+.btn-store:active,.btn-google:hover{color:#fff;background-color:#555;border-color:#000;}
+.btn-store:before{content:"";background-image:url(https://logodix.com/logo/19234.png);background-size:cover;background-repeat:no-repeat;width:30px;height:30px;position:absolute;left:6px;top:50%;margin-top:-15px}
+.btn-store:after{content:"Download on the";position:absolute;top:5px;left:40px;font-size:10px;font-weight:400;}
